@@ -1,6 +1,6 @@
 # TinyC Compiler in Java
+Tinhy is a lightweight C compiler developed as part of the Saarland University Programming 2 course for the Summer Term 2024. The project aims to create a minimalistic yet functional C compiler that can parse, analyze, and generate code for a subset of the C programming language. The compiler is designed to be simple and educational, making it an ideal tool for learning the fundamentals of compiler design and implementation.
 
-This repository contains the implementation of a TinyC compiler written in Java. The compiler translates TinyC code into MIPS assembly and generates verification conditions for correctness. The project was developed as part of the Programming 2 course at Saarland University, Summer Term 2024.
 
 ## Project Overview
 
