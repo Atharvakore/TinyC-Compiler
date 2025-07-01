@@ -86,5 +86,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 This project was developed as part of the Programming 2 course at Saarland University, Summer Term 2024.
 
 ---
-
-Feel free to customize this README as needed for your specific project details and preferences.
